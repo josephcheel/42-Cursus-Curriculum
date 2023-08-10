@@ -1,4 +1,4 @@
-# 42Cursus
+<h1 align="center"> 42Cursus | Common Core <img src="resources/InProgress.png "></h1>
 <!--![Common_core](/resources/common_core.png)-->
 <center><img src="/resources/common_core_black.png"
     width="600"
