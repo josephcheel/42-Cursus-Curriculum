@@ -1,4 +1,8 @@
-<h1 align="center"> 42 Cursus | Common Core <img src="resources/InProgress.svg"></h1>
+<h1 align="center"> 
+<img alt="42 Logo" width=40 align="center" src="resources/42_Logo.svg">
+Cursus | Common Core <img src="resources/InProgress.svg">
+</h1>
+
 <!--![Common_core](/resources/common_core.png)-->
 <center><img src="/resources/common_core_black.png"
     width="600"
