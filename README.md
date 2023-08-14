@@ -1,7 +1,16 @@
-<h1 align="center"> 
-<img alt="42 Logo" width=40 align="center" src="resources/42_Logo.svg">
-Cursus | Common Core <img src="resources/InProgress.svg">
+<!--HEADER-->
+<h1 align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="resources/42_Logo_White.svg">
+  <img alt="42 Logo" width=40 align="center" src="resources/42_Logo.svg">
+ </picture>
+ Cursus | 
+Common Core
+<img src="resources/InProgress.svg">
+
 </h1>
+<!--FINISH HEADER-->
+
 
 <!--![Common_core](/resources/common_core.png)-->
 <center><img src="/resources/common_core_black.png"
