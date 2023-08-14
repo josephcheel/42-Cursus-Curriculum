@@ -2,7 +2,7 @@
 <h1 align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="resources/42_Logo_White.svg">
-  <img alt="42 Logo" width=40 align="center" src="resources/42_Logo.svg">
+  <img alt="42 Logo" width=40 align="center" src="https://github.com/josephcheel/42-Cursus/blob/main/resources/42_Logo.svg">
  </picture>
  Cursus | 
 Common Core
