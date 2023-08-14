@@ -1,7 +1,7 @@
 <!--HEADER-->
 <h1 align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="resources/42_Logo_White.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josephcheel/42-Cursus/main/resources/42_Logo_White.svg">
   <img alt="42 Logo" width=40 align="center" src="https://raw.githubusercontent.com/josephcheel/42-Cursus/main/resources/42_Logo.svg">
  </picture>
  Cursus | 
