@@ -32,6 +32,7 @@ What is
  ?
 </h3>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam, id suscipit nunc. Maecenas condimentum, massa a laoreet dignissim, tellus sapien laoreet dui, pharetra tincidunt lorem nibh eu mi. Nulla ut iaculis orci, maximus porta orci.
+<a href="https://42.fr/en/the-program/innovative-learning/">Learn More Here</a>
 
 ### Project
 * Libft
