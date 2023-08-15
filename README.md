@@ -17,10 +17,10 @@ Common Core
 
 > My projects on 42 Cursus at Barcelona Campus 
 
-### My progress
+###
 
-<div align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfo781th000608l4lo1z8jb2/stats?cursusId=21&coalitionId=205" alt="jcheel-n's 42 stats" /></a>
+<div align="right">
+<a href="https://github.com/JaeSeoKim/badge42"><img width=500 src="https://badge42.vercel.app/api/v2/clfo781th000608l4lo1z8jb2/stats?cursusId=21&coalitionId=205" alt="jcheel-n's 42 stats" /></a>
 </div>
 
 <h3>
