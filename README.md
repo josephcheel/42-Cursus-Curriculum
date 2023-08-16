@@ -35,13 +35,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam,
 <a href="https://42.fr/en/the-program/innovative-learning/">Learn More Here</a>
 
 ### Project
-* Libft
-* Ft_Printf
-* Get_next_line
+* [Libft](https://github.com/josephcheel/42-Libft)
+* [Ft_Printf](https://github.com/josephcheel/42-Ft_Printf)
+* [Get_next_line](https://github.com/josephcheel/42-Get_next_line)
 * Born2beroot
-* Pipex
-* So_long
+* [Pipex](https://github.com/josephcheel/42-Pipex)
+* [So_long](https://github.com/josephcheel/42-So_long)
 * Push Swap
-* Philosophers
+* [Philosophers](https://github.com/josephcheel/42-Philosophers)
 * ...
 
