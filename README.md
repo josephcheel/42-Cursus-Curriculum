@@ -44,5 +44,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam,
 * [So_long](https://github.com/josephcheel/42-So_long)
 * [Push Swap](https://github.com/josephcheel/42-Push_Swap)
 * [Philosophers](https://github.com/josephcheel/42-Philosophers)
+* Minishell
+* CPP Part I
+* NetPractice
+* Cub3d | MiniRT
+* CPP Part II
+* Inception
+* webserv / ft_irc
 * ...
 
