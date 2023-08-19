@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam,
 * Born2beroot
 * [Pipex](https://github.com/josephcheel/42-Pipex)
 * [So_long](https://github.com/josephcheel/42-So_long)
-* Push Swap
+* [Push Swap](https://github.com/josephcheel/42-Push_Swap)
 * [Philosophers](https://github.com/josephcheel/42-Philosophers)
 * ...
 
