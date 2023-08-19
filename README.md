@@ -35,21 +35,33 @@ What is
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam, id suscipit nunc. Maecenas condimentum, massa a laoreet dignissim, tellus sapien laoreet dui, pharetra tincidunt lorem nibh eu mi. Nulla ut iaculis orci, maximus porta orci.
 <a href="https://42.fr/en/the-program/innovative-learning/">Learn More Here</a>
 
-### Project
+### Projects
+##### RANK 00
 * [Libft](https://github.com/josephcheel/42-Libft)
+##### RANK 01
 * [Ft_Printf](https://github.com/josephcheel/42-Ft_Printf)
 * [Get_next_line](https://github.com/josephcheel/42-Get_next_line)
 * Born2beroot
+##### RANK 02
 * [Pipex](https://github.com/josephcheel/42-Pipex)
 * [So_long](https://github.com/josephcheel/42-So_long)
 * [Push Swap](https://github.com/josephcheel/42-Push_Swap)
+* Exam Rank 02
+##### RANK 03
 * [Philosophers](https://github.com/josephcheel/42-Philosophers)
 * Minishell
-* CPP Part I
+* Exam Rank 03
+##### RANK 04
+* C++ PART I
 * NetPractice
 * Cub3d | MiniRT
-* CPP Part II
+* Exam Rank 04
+ ##### RANK 05
+* C++ PART II
 * Inception
 * webserv / ft_irc
-* ...
+* Exam Rank 05
+ ##### RANK 06
+* ft_transcendence
+* Exam Rank 06
 
