@@ -52,12 +52,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam,
 * Minishell
 * Exam Rank 03
 ##### RANK 04
-* C++ PART I
+* ##### CPP | Part I
+  * [Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)
+  * [Module_01](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_01)
+  * [Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)
+  * [Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)
+  * [Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)
 * NetPractice
 * Cub3d | MiniRT
 * Exam Rank 04
  ##### RANK 05
-* C++ PART II
+* ##### CPP Part II
+  * [Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)
+  * [Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)
+  * [Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)
+  * [Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)
+  * [Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)
 * Inception
 * webserv / ft_irc
 * Exam Rank 05
