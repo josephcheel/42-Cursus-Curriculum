@@ -35,6 +35,9 @@ What is
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam, id suscipit nunc. Maecenas condimentum, massa a laoreet dignissim, tellus sapien laoreet dui, pharetra tincidunt lorem nibh eu mi. Nulla ut iaculis orci, maximus porta orci.
 <a href="https://42.fr/en/the-program/innovative-learning/">Learn More Here</a>
 
+### Piscine Projects
+Learn More about what is [42 C Piscine](https://github.com/josephcheel/42-Piscine)
+
 ### Common Core Projects
 ##### RANK 00
 * [Libft](https://github.com/josephcheel/42-Libft)
