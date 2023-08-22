@@ -35,7 +35,7 @@ What is
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam, id suscipit nunc. Maecenas condimentum, massa a laoreet dignissim, tellus sapien laoreet dui, pharetra tincidunt lorem nibh eu mi. Nulla ut iaculis orci, maximus porta orci.
 <a href="https://42.fr/en/the-program/innovative-learning/">Learn More Here</a>
 
-### Projects
+### Common Core Projects
 ##### RANK 00
 * [Libft](https://github.com/josephcheel/42-Libft)
 ##### RANK 01
@@ -74,4 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam,
  ##### RANK 06
 * ft_transcendence
 * Exam Rank 06
+
+### Extra Curricular Projects
+* [Python & Machine Learning](https://github.com/josephcheel/42-Python-Machine-Learning)
 
