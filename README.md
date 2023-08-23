@@ -47,7 +47,7 @@ Learn More about what is [42 C Piscine](https://github.com/josephcheel/42-Piscin
 * [Born2beroot](https://github.com/josephcheel/42-Born2beroot)
 ##### RANK 02
 * [Pipex](https://github.com/josephcheel/42-Pipex)
-* [So_long](https://github.com/josephcheel/42-So_long)
+* [So_long](https://github.com/josephcheel/42-So_long){:target="_blank"}
 * [Push Swap](https://github.com/josephcheel/42-Push_Swap)
 * Exam Rank 02
 ##### RANK 03
