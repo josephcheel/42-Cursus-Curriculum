@@ -12,13 +12,9 @@
 </h1>
 <!--FINISH HEADER-->
 
-
-<!--![Common_core](/resources/common_core.png)-->
-<!--<center><img src="/resources/common_core_black.png" width="600"  height= auto/></center>-->
+<a href='https://profile.intra.42.fr/users/jcheel-n' target="_blank"><img alt='42' src='https://img.shields.io/badge/Barcelona-000000?logo=42&logoColor=White'/></a>
 
 > My projects on 42 Cursus at Barcelona Campus 
-
-###
 
 <div align="right">
 <a href="https://github.com/JaeSeoKim/badge42"><img width=500 src="https://badge42.vercel.app/api/v2/clfo781th000608l4lo1z8jb2/stats?cursusId=21&coalitionId=205" alt="jcheel-n's 42 stats" /></a>
