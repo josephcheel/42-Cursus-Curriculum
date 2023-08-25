@@ -9,8 +9,9 @@
 <img src="resources/InProgress.svg">
 </h1>
 <!--FINISH HEADER-->
+<div align="center">
 <a href='https://profile.intra.42.fr/users/jcheel-n' target="_blank"><img alt='42' src='https://img.shields.io/badge/Barcelona-000000?logo=42&logoColor=White'/></a>
-
+</div>
 > My projects on 42 Cursus at Barcelona Campus
 
 <div align="right">
