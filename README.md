@@ -30,48 +30,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis malesuada quam,
 <a href="https://42.fr/en/the-program/innovative-learning/">Learn More Here</a>
 
 ### Piscine Projects
-Learn More about what is [42 C Piscine](https://github.com/josephcheel/42-Piscine)
+Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Piscine)**
 
 ### Common Core Projects
 ##### RANK 00
-* [Libft](https://github.com/josephcheel/42-Libft)
+* **[Libft](https://github.com/josephcheel/42-Libft)**: creating a C library with some basic functions from libc.
 ##### RANK 01
-* [Ft_Printf](https://github.com/josephcheel/42-Ft_Printf)
-* [Get_next_line](https://github.com/josephcheel/42-Get_next_line)
-* [Born2beroot](https://github.com/josephcheel/42-Born2beroot)
+* **[Ft_Printf](https://github.com/josephcheel/42-Ft_Printf)**: replication of printf function, to print some types of data.
+* **[Get_next_line](https://github.com/josephcheel/42-Get_next_line)**: programming a function that returns a line read from a file descriptor.
+* **[Born2beroot](https://github.com/josephcheel/42-Born2beroot)**: creating and setting up a debian server through virtualization.
 ##### RANK 02
-* [Pipex](https://github.com/josephcheel/42-Pipex)
-* [So_long](https://github.com/josephcheel/42-So_long)
-* [Push Swap](https://github.com/josephcheel/42-Push_Swap)
-* Exam Rank 02
+* **[Pipex](https://github.com/josephcheel/42-Pipex)**: program that introduces two UNIX mechanism. Piping and redirection.
+* **[So_long](https://github.com/josephcheel/42-So_long)**: simple 2D video game with graphical library MiniLibX
+* **[Push Swap](https://github.com/josephcheel/42-Push_Swap)**: data sorting algorithm program using two stacks in the lowest possible number of actions. 
+* **Exam Rank 02**
 ##### RANK 03
-* [Philosophers](https://github.com/josephcheel/42-Philosophers)
-* Minishell
-* Exam Rank 03
+* **[Philosophers](https://github.com/josephcheel/42-Philosophers)**
+* **Minishell**
+* **Exam Rank 03**
 ##### RANK 04
-* ##### CPP | Part I
-  * [Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)
-  * [Module_01](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_01)
-  * [Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)
-  * [Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)
-  * [Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)
-* NetPractice
-* Cub3d | MiniRT
-* Exam Rank 04
+* #### CPP | Part I
+  * **[Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)**
+  * **[Module_01](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_01)**
+  * **[Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)**
+  * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**
+  * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**
+* **NetPractice**
+* **Cub3d | MiniRT**
+* **Exam Rank 04**
  ##### RANK 05
-* ##### CPP Part II
-  * [Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)
-  * [Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)
-  * [Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)
-  * [Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)
-  * [Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)
-* Inception
-* webserv / ft_irc
-* Exam Rank 05
+* #### CPP Part II
+  * **[Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)**
+  * **[Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)**
+  * **[Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)**
+  * **[Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)**
+  * **[Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)**
+* **Inception**
+* **webserv / ft_irc**
+* **Exam Rank 05**
  ##### RANK 06
-* ft_transcendence
-* Exam Rank 06
+* **ft_transcendence**
+* **Exam Rank 06**
 
 ### Extra Curricular Projects
-* [Python & Machine Learning](https://github.com/josephcheel/42-Python-Machine-Learning)
+* **[Python & Machine Learning](https://github.com/josephcheel/42-Python-Machine-Learning)**
 
