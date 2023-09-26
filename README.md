@@ -46,11 +46,11 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * **[Pipex](https://github.com/josephcheel/42-Pipex)**: program that introduces two UNIX mechanism. Piping and redirection.
 * **[So_long](https://github.com/josephcheel/42-So_long)**: simple 2D video game with graphical library MiniLibX
 * **[Push Swap](https://github.com/josephcheel/42-Push_Swap)**: data sorting algorithm program using two stacks in the lowest possible number of actions. 
-* **Exam Rank 02**
+* **Exam Rank 02** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 03
 * **[Philosophers](https://github.com/josephcheel/42-Philosophers)**
 * **Minishell**
-* **Exam Rank 03**
+* **Exam Rank 03** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 04
 * #### CPP | Part I
   * **[Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)**
