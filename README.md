@@ -52,7 +52,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * **[Minishell](https://github.com/alexgeiser78/42-minishell)**: This project is about creating a simple shell. You will learn a lot about processes and file descriptors.
 * **Exam Rank 03** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 04
-* #### CPP | Part I
+* #### [CPP | Part I](https://github.com/josephcheel/42-CPP)
   * **[Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)**
   * **[Module_01](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_01)**
   * **[Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)**
@@ -62,7 +62,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * **Cub3d | MiniRT**
 * **Exam Rank 04**
  ##### RANK 05
-* #### CPP Part II
+* #### [CPP Part II](https://github.com/josephcheel/42-CPP)
   * **[Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)**
   * **[Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)**
   * **[Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)**
