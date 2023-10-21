@@ -44,12 +44,12 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * **[Born2beroot](https://github.com/josephcheel/42-Born2beroot)**: creating and setting up a debian server through virtualization.
 ##### RANK 02
 * **[Pipex](https://github.com/josephcheel/42-Pipex)**: program that introduces two UNIX mechanism. Piping and redirection.
-* **[So_long](https://github.com/josephcheel/42-So_long)**: simple 2D video game with graphical library MiniLibX
+* **[So_long](https://github.com/josephcheel/42-So_long)**: simple 2D video game with graphical library MiniLibX.
 * **[Push Swap](https://github.com/josephcheel/42-Push_Swap)**: data sorting algorithm program using two stacks in the lowest possible number of actions. 
 * **Exam Rank 02** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 03
-* **[Philosophers](https://github.com/josephcheel/42-Philosophers)**
-* **Minishell**
+* **[Philosophers](https://github.com/josephcheel/42-Philosophers)**: program to learn about the basics of threading a process. You will see how to create threads and you will discover mutexes.
+* **[Minishell](https://github.com/alexgeiser78/42-minishell)**: This project is about creating a simple shell. You will learn a lot about processes and file descriptors.
 * **Exam Rank 03** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 04
 * #### CPP | Part I
