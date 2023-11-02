@@ -58,7 +58,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
   * **[Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)**
   * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**
   * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**
-* **NetPractice**
+* **[NetPractice](https://github.com/josephcheel/42-NetPractice)**
 * **Cub3d | MiniRT**
 * **Exam Rank 04**
  ##### RANK 05
