@@ -27,10 +27,10 @@ What is
  </picture>
  ?
 </h3>
-The 42 school is much more than a programming campus. It's a philosophy, a revolution that comes to break with all the paradigms of education. At 42, students are the protagonists of their own learning.
-
+<p style='text-align: justify;'>
+The 42 school is much more than a programming campus. At 42, students are the protagonists of their own learning.
 And what do you learn at 42? You learn to learn. Thanks to self-learning (there are no teachers) and peers (learning from peers). Its gamified methodology allows students to progress through levels and acquire the technical and cross-cutting skills that companies are demanding.
-<a href="https://42.fr/en/the-program/innovative-learning/">Learn More Here</a>
+<a href="https://42.fr/en/the-program/innovative-learning/">Learn More Here</a></p>
 
 ### Piscine Projects
 Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Piscine)**
