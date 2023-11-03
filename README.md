@@ -28,8 +28,7 @@ What is
  ?
 </h3>
 <p style='text-align: justify;'>
-The 42 school is much more than a programming campus. At 42, students are the protagonists of their own learning.
-And what do you learn at 42? You learn to learn. Thanks to self-learning (there are no teachers) and peers (learning from peers). Its gamified methodology allows students to progress through levels and acquire the technical and cross-cutting skills that companies are demanding.
+The 42 school is much more than a programming campus. And what do you learn at 42? You learn to learn. Thanks to self-learning (there are no teachers) and peers (learning from peers). Its gamified methodology allows students to progress through levels and acquire the technical and cross-cutting skills that companies are demanding.
 <a href="https://42.fr/en/the-program/innovative-learning/">Learn More Here</a></p>
 
 ### Piscine Projects
