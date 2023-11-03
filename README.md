@@ -36,18 +36,18 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 
 ### Common Core Projects
 ##### RANK 00
-* **[Libft](https://github.com/josephcheel/42-Libft)**: creating a C library with some basic functions from libc. &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
+* **[Libft](https://github.com/josephcheel/42-Libft)**: creating a C library with some basic functions from libc. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 ##### RANK 01
-* **[Ft_Printf](https://github.com/josephcheel/42-Ft_Printf)**: replication of printf function, to print some types of data. &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-* **[Get_next_line](https://github.com/josephcheel/42-Get_next_line)**: programming a function that returns a line read from a file descriptor. &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-* **[Born2beroot](https://github.com/josephcheel/42-Born2beroot)**: creating and setting up a debian server through virtualization. &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
+* **[Ft_Printf](https://github.com/josephcheel/42-Ft_Printf)**: replication of printf function, to print some types of data. &nbsp;&nbsp;<img align="center"  src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
+* **[Get_next_line](https://github.com/josephcheel/42-Get_next_line)**: programming a function that returns a line read from a file descriptor. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
+* **[Born2beroot](https://github.com/josephcheel/42-Born2beroot)**: creating and setting up a debian server through virtualization. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 ##### RANK 02
-* **[Pipex](https://github.com/josephcheel/42-Pipex)**: program that introduces two UNIX mechanism. Piping and redirection. &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-* **[So_long](https://github.com/josephcheel/42-So_long)**: simple 2D video game with graphical library MiniLibX. &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-* **[Push Swap](https://github.com/josephcheel/42-Push_Swap)**: data sorting algorithm program using two stacks in the lowest possible number of actions. &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
+* **[Pipex](https://github.com/josephcheel/42-Pipex)**: program that introduces two UNIX mechanism. Piping and redirection. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
+* **[So_long](https://github.com/josephcheel/42-So_long)**: simple 2D video game with graphical library MiniLibX. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
+* **[Push Swap](https://github.com/josephcheel/42-Push_Swap)**: data sorting algorithm program using two stacks in the lowest possible number of actions. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **Exam Rank 02** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 03
-* **[Philosophers](https://github.com/josephcheel/42-Philosophers)**: program to learn about the basics of threading a process. You will see how to create threads and you will discover mutexes. &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
+* **[Philosophers](https://github.com/josephcheel/42-Philosophers)**: program to learn about the basics of threading a process. You will see how to create threads and you will discover mutexes. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **[Minishell](https://github.com/alexgeiser78/42-minishell)**: This project is about creating a simple shell. You will learn a lot about processes and file descriptors.
 * **Exam Rank 03** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 04
