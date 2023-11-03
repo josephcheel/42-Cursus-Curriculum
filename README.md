@@ -53,21 +53,21 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * **Exam Rank 03** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 04
 * #### [CPP | Part I](https://github.com/josephcheel/42-CPP)
-  * **[Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)**
-  * **[Module_01](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_01)**
-  * **[Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)**
-  * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**
-  * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**
+  * **[Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)**: Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic.
+  * **[Module_01](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_01)**: Memory allocation, pointers to members, references, switch statement.
+  * **[Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)**: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
+  * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**: Inheritance.
+  * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**: Subtype polymorphism, abstract classes, interfaces.
 * **[NetPractice](https://github.com/josephcheel/42-NetPractice)**
 * **Cub3d | MiniRT**
 * **Exam Rank 04**
  ##### RANK 05
 * #### [CPP Part II](https://github.com/josephcheel/42-CPP)
-  * **[Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)**
-  * **[Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)**
-  * **[Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)**
-  * **[Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)**
-  * **[Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)**
+  * **[Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)**: Repetition and Exceptions.
+  * **[Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)**: C++ casts.
+  * **[Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)**: C++ templates.
+  * **[Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)**: Templated containers, iterators, algorithms.
+  * **[Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)**: STL.
 * **Inception**
 * **webserv / ft_irc**
 * **Exam Rank 05**
