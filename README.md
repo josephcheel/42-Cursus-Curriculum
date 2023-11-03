@@ -58,7 +58,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
   * **[Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)**: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
   * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**: Inheritance.
   * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**: Subtype polymorphism, abstract classes, interfaces.
-* **[NetPractice](https://github.com/josephcheel/42-NetPractice)**
+* **[NetPractice](https://github.com/josephcheel/42-NetPractice)**: project about solving networking problems exercises. Configuring small-scale networks, subnets and understanding TCP/IP addressing.
 * **Cub3d | MiniRT**
 * **Exam Rank 04**
  ##### RANK 05
