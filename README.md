@@ -58,7 +58,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
   * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**: Inheritance.
   * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**: Subtype polymorphism, abstract classes, interfaces.
 * **[NetPractice](https://github.com/josephcheel/42-NetPractice)**: project about solving networking problems exercises. Configuring small-scale networks, subnets and understanding TCP/IP addressing.
-* **Cub3d | MiniRT**
+* **Cub3d**
 * **Exam Rank 04**
  ##### RANK 05
 * #### [CPP Part II](https://github.com/josephcheel/42-CPP)
@@ -68,7 +68,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
   * **[Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)**: Templated containers, iterators, algorithms.
   * **[Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)**: STL.
 * **Inception**
-* **webserv / ft_irc**
+* **ft_irc**
 * **Exam Rank 05**
  ##### RANK 06
 * **ft_transcendence**
