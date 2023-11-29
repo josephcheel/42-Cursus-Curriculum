@@ -48,7 +48,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * **Exam Rank 02** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 03
 * **[Philosophers](https://github.com/josephcheel/42-Philosophers)**: program to learn about the basics of threading a process. You will see how to create threads and you will discover mutexes. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-* **[Minishell](https://github.com/alexgeiser78/42-minishell)**: This project is about creating a simple shell. You will learn a lot about processes and file descriptors.
+* **[Minishell](https://github.com/josephcheel/42-Minishell)**: This project is about creating a simple shell. You will learn a lot about processes and file descriptors. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **Exam Rank 03** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
 ##### RANK 04
 * #### [CPP | Part I](https://github.com/josephcheel/42-CPP)
