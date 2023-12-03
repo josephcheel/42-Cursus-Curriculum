@@ -58,8 +58,8 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
   * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**: Inheritance.
   * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**: Subtype polymorphism, abstract classes, interfaces.
 * **[NetPractice](https://github.com/josephcheel/42-NetPractice)**: project about solving networking problems exercises. Configuring small-scale networks, subnets and understanding TCP/IP addressing.
-* **Cub3d**
-* **Exam Rank 04**
+* **[MiniRT](https://github.com/josephcheel/42-MiniRT)**: Rendering program to create Computer-Generated-Images with the use of Raytracing protocol.
+* **Exam Rank 04** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
  ##### RANK 05
 * #### [CPP Part II](https://github.com/josephcheel/42-CPP)
   * **[Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)**: Repetition and Exceptions.
