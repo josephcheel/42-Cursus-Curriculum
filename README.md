@@ -45,23 +45,23 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * **[Pipex](https://github.com/josephcheel/42-Pipex)**: program that introduces two UNIX mechanism. Piping and redirection. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **[So_long](https://github.com/josephcheel/42-So_long)**: simple 2D video game with graphical library MiniLibX. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **[Push Swap](https://github.com/josephcheel/42-Push_Swap)**: data sorting algorithm program using two stacks in the lowest possible number of actions. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-* **Exam Rank 02** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
+* **Exam Rank 02** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 ##### RANK 03
 * **[Philosophers](https://github.com/josephcheel/42-Philosophers)**: program to learn about the basics of threading a process. You will see how to create threads and you will discover mutexes. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **[Minishell](https://github.com/josephcheel/42-Minishell)**: This project is about creating a simple shell. You will learn a lot about processes and file descriptors. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-* **Exam Rank 03** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
+* **Exam Rank 03** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 ##### RANK 04
 * #### [CPP | Part I](https://github.com/josephcheel/42-CPP)
-  * **[Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)**: Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic.
+  * **[Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)**: Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic.&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_01](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_01)**: Memory allocation, pointers to members, references, switch statement.
   * **[Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)**: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
   * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**: Inheritance.
   * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**: Subtype polymorphism, abstract classes, interfaces.
 * **[NetPractice](https://github.com/josephcheel/42-NetPractice)**: project about solving networking problems exercises. Configuring small-scale networks, subnets and understanding TCP/IP addressing.
 * **[MiniRT](https://github.com/josephcheel/42-MiniRT)**: Rendering program to create Computer-Generated-Images with the use of Raytracing protocol.
-* **Exam Rank 04** &nbsp; <img alt="Check" align="center" width=90 src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/check.svg">
+* **Exam Rank 04** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
  ##### RANK 05
-* #### [CPP Part II](https://github.com/josephcheel/42-CPP)
+* #### [CPP | Part II](https://github.com/josephcheel/42-CPP)
   * **[Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)**: Repetition and Exceptions.
   * **[Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)**: C++ casts.
   * **[Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)**: C++ templates.
