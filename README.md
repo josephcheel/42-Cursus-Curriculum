@@ -13,7 +13,7 @@
 <a href='https://profile.intra.42.fr/users/jcheel-n' target="_blank"><img alt='42' src='https://img.shields.io/badge/Barcelona-000000?logo=42&logoColor=White'/></a>
 </div>
 
-> My projects on 42 Cursus at Barcelona Campus
+> My projects on 42 Cursus at 42Barcelona Campus
 
 <!--<div align="right">
 <a href="https://github.com/JaeSeoKim/badge42"><img width=500 src="https://badge42.vercel.app/api/v2/clfo781th000608l4lo1z8jb2/stats?cursusId=21&coalitionId=205" alt="jcheel-n's 42 stats" /></a>
