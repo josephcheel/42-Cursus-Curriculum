@@ -54,7 +54,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * #### [CPP | Part I](https://github.com/josephcheel/42-CPP)
   * **[Module_00](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_00)**: Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_01](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_01)**: Memory allocation, pointers to members, references, switch statement. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-  * **[Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)**: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
+  * **[Module_02](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_02)**: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**: Inheritance.
   * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**: Subtype polymorphism, abstract classes, interfaces.
 * **[NetPractice](https://github.com/josephcheel/42-NetPractice)**: project about solving networking problems exercises. Configuring small-scale networks, subnets and understanding TCP/IP addressing. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
