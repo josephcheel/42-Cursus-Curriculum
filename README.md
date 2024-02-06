@@ -58,11 +58,11 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
   * **[Module_03](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_03)**: Inheritance. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_04](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_04)**: Subtype polymorphism, abstract classes, interfaces. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **[NetPractice](https://github.com/josephcheel/42-NetPractice)**: project about solving networking problems exercises. Configuring small-scale networks, subnets and understanding TCP/IP addressing. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-* **[MiniRT](https://github.com/josephcheel/42-MiniRT)**: Rendering program to create Computer-Generated-Images with the use of Raytracing protocol.
+* **[MiniRT](https://github.com/josephcheel/42-MiniRT)**: Rendering program to create Computer-Generated-Images with the use of Raytracing protocol. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **Exam Rank 04** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
  ##### RANK 05
 * #### [CPP | Part II](https://github.com/josephcheel/42-CPP)
-  * **[Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)**: Repetition and Exceptions.
+  * **[Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)**: Repetition and Exceptions. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)**: C++ casts.
   * **[Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)**: C++ templates.
   * **[Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)**: Templated containers, iterators, algorithms.
