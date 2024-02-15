@@ -69,7 +69,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
   * **[Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)**: STL.
 * **Inception**: System administration with Docker and VM.
 * **ft_irc**
-* **Exam Rank 05**
+* **[Exam Rank 05](https://github.com/josephcheel/42-Exam-Rank-05)** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
  ##### RANK 06
 * **ft_transcendence**
 * **Exam Rank 06**
