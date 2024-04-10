@@ -65,7 +65,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
   * **[Module_05](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_05)**: Repetition and Exceptions. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)**: C++ casts. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)**: C++ templates. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-  * **[Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)**: Templated containers, iterators, algorithms.
+  * **[Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)**: Templated containers, iterators, algorithms. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)**: STL.
 * **[Inception](https://github.com/josephcheel/42-Inception)**: System administration with Docker and VM.
 * **Webserv | ft_irc**
