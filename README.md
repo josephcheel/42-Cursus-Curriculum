@@ -66,7 +66,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
   * **[Module_06](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_06)**: C++ casts. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_07](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_07)**: C++ templates. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
   * **[Module_08](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_08)**: Templated containers, iterators, algorithms. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
-  * **[Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)**: STL.
+  * **[Module_09](https://github.com/josephcheel/42-CPP/tree/main/CPP_Module_09)**: STL. &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **[Inception](https://github.com/josephcheel/42-Inception)**: System administration with Docker and VM.  &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **Webserv**
 * **[Exam Rank 05](https://github.com/josephcheel/42-Exam-Rank-05)** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
