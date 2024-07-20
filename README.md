@@ -72,7 +72,7 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * **[Exam Rank 05](https://github.com/josephcheel/42-Exam-Rank-05)** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
  ##### RANK 06
 * **ft_transcendence**
-* **[Exam Rank 06](https://github.com/josephcheel/42-Exam-Rank-06)**
+* **[Exam Rank 06](https://github.com/josephcheel/42-Exam-Rank-06)** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 
 ### Extra Curricular Projects
 * **[Python & Machine Learning](https://github.com/josephcheel/42-Python-Machine-Learning)**
