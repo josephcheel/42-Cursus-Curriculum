@@ -6,10 +6,11 @@
  </picture>
  Cursus |
  Common Core
-<img src="resources/InProgress.svg">
+ <img alt="Complete" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/complete.svg">
 </h1>
 <!--FINISH HEADER-->
 <div align="center">
+ 
 <a href='https://profile.intra.42.fr/users/jcheel-n' target="_blank"><img alt='42' src='https://img.shields.io/badge/Barcelona-000000?logo=42&logoColor=White'/></a>
 </div>
 
@@ -71,9 +72,9 @@ Learn More about what is **[42 C Piscine](https://github.com/josephcheel/42-Pisc
 * **[Webserv](https://github.com/ErnestoAvedillo/Webserv)** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **[Exam Rank 05](https://github.com/josephcheel/42-Exam-Rank-05)** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
  ##### RANK 06
-* **ft_transcendence**
+* **ft_transcendence** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 * **[Exam Rank 06](https://github.com/josephcheel/42-Exam-Rank-06)** &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/josephcheel/readme/main/resources/check.svg">
 
 ### Extra Curricular Projects
-* **[Python & Machine Learning](https://github.com/josephcheel/42-Python-Machine-Learning)**
+* **[Python & Machine Learning](https://github.com/josephcheel/42-Python-Machine-Learning)** 
 
